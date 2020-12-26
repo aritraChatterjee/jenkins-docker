@@ -14,4 +14,4 @@
 
 Here, ***host*** is the hostname/ip of the jenkins-master and ***secret*** can be found from the page of the corresponding node under nodes in jenkins-master
 
-![image-secret-config](.\secret_config.png)
+![image-secret-config](secret_config.png)
